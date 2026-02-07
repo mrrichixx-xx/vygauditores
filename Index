@@ -1,0 +1,162 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Estudio Contable | Servicios Profesionales</title>
+  <meta name="description" content="Empresa de contabilidad en Chile. Servicios contables, tributarios, laborales y asesoría para personas y empresas." />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f7f9fc;
+    }
+    header {
+      background: #0b3c5d;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0 0 10px;
+      font-size: 2.2rem;
+    }
+    header p {
+      margin: 0;
+      font-size: 1.1rem;
+    }
+    nav {
+      background: #06293d;
+      padding: 10px 20px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 12px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 0.95rem;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    section {
+      margin-bottom: 50px;
+    }
+    h2 {
+      color: #0b3c5d;
+      margin-bottom: 15px;
+    }
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background: #fff;
+      padding: 25px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    }
+    .card h3 {
+      margin-top: 0;
+      color: #06293d;
+    }
+    .cta {
+      background: #0b3c5d;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+      border-radius: 8px;
+    }
+    .cta h2 {
+      color: #fff;
+      margin-bottom: 10px;
+    }
+    .cta p {
+      margin-bottom: 20px;
+    }
+    .cta a {
+      background: #f2b705;
+      color: #000;
+      padding: 12px 25px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    footer {
+      background: #06293d;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>  <header>
+    <h1>Estudio Contable Profesional</h1>
+    <p>Información clara, cumplimiento tributario y respaldo permanente para tu negocio</p>
+  </header>  <nav>
+    <a href="#nosotros">Nosotros</a>
+    <a href="#servicios">Servicios</a>
+    <a href="#clientes">Clientes</a>
+    <a href="#contacto">Contacto</a>
+  </nav>  <main class="container"><section id="nosotros">
+  <h2>Quiénes Somos</h2>
+  <p>
+    Somos una empresa de contabilidad orientada a entregar información confiable y oportuna a personas, emprendedores y empresas. 
+    Nuestro objetivo es apoyar la correcta toma de decisiones mediante el cumplimiento de las normas contables, tributarias y laborales vigentes en Chile.
+  </p>
+  <p>
+    Trabajamos con un enfoque informativo, preventivo y personalizado, manteniendo a nuestros clientes actualizados frente a cambios legales y obligaciones fiscales.
+  </p>
+</section>
+
+<section id="servicios">
+  <h2>Nuestros Servicios</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Contabilidad General</h3>
+      <p>Registro contable completo, balances, estados financieros e informes periódicos claros y comprensibles.</p>
+    </div>
+    <div class="card">
+      <h3>Servicios Tributarios</h3>
+      <p>Declaraciones mensuales (IVA), Operación Renta, asesoría tributaria y representación ante el SII.</p>
+    </div>
+    <div class="card">
+      <h3>Remuneraciones</h3>
+      <p>Cálculo de sueldos, contratos, finiquitos, cotizaciones previsionales y cumplimiento laboral.</p>
+    </div>
+    <div class="card">
+      <h3>Asesoría para Emprendedores</h3>
+      <p>Inicio de actividades, elección de régimen tributario y acompañamiento en el crecimiento del negocio.</p>
+    </div>
+  </div>
+</section>
+
+<section id="clientes">
+  <h2>A Quiénes Atendemos</h2>
+  <p>
+    Prestamos servicios a personas naturales, profesionales independientes, pymes, sociedades y emprendedores de distintos rubros.
+    Adaptamos nuestros procesos al tamaño y realidad de cada cliente.
+  </p>
+</section>
+
+<section class="cta" id="contacto">
+  <h2>Contacto</h2>
+  <p>
+    Si necesitas apoyo contable o tributario, contáctanos para una evaluación inicial.
+  </p>
+  <a href="https://wa.me/56900000000" target="_blank">Escríbenos por WhatsApp</a>
+</section>
+
+  </main>  <footer>
+    <p>© 2026 Estudio Contable Profesional | Información clara y respaldo permanente</p>
+  </footer></body>
+</html>
